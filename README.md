@@ -16,72 +16,46 @@ The objective of this project is to compare the impact of COVID-19 across differ
 ## 4) Datasets Used:
 - <a href="https://github.com/ApoorveChauhan/Covid-19-Analysis/tree/main/Covid%2019%20raw%20dataset">Covid-19 Raw Dataset</a>
 
-🔹 Features / Highlights
-Business Problem
+## 5) Project Highlights
+### Business Problem
+The COVID-19 pandemic affected every country, but the rate of spread, fatality and recovery varied significantly across regions.
+Raw datasets made it difficult for policymakers, researchers and the public to quickly answer questions like:
+1) Which countries are most affected?
+2) How fast are cases rising in different regions?
+3) What are the recovery and mortality rates across countries?
+4) How has the spread evolved over time globally?
 
-The COVID-19 pandemic affected every country, but the rate of spread, fatality, and recovery varied significantly across regions.
-Raw datasets made it difficult for policymakers, researchers, and the public to quickly answer questions like:
-
-Which countries are most affected?
-
-How fast are cases rising in different regions?
-
-What are the recovery and mortality rates across countries?
-
-How has the spread evolved over time globally?
-
-Goal of the Dashboard
-
+### Goal of the Dashboard
 To deliver an interactive analytical tool that:
+1) Tracks confirmed cases, deaths and recoveries worldwide.
+2) Provides country-level and global-level insights.
+3) Highlights trends in growth rates, recovery rates and fatality rates.
+4) Supports public health strategies and policy decisions with data-backed insights.
 
-Tracks confirmed cases, deaths, and recoveries worldwide.
+### Walkthrough of Key Visuals
+#### 📌 Global Overview Dashboard
+1) KPIs: Total Confirmed, Total Deaths, Total Recovered, Recovery Rate and Death Rate.
+2) Monthly Trends (Line Chart) – Monthly trends in confirmed, deaths and recoveries.
+3) World Map (Map) – Geographic spread of conifrmed cases, deaths, recovered cases across regions
+4) Death Analysis (Matrix) - Monthly deaths by country.
 
-Provides country-level and global-level insights.
+#### 📌 Country-wise comparison Dashboard
+1) Top 5 and bottom 5 Countries by Confirmed Cases (Column Chart).
+2) Top 5 and bottom 5 Countries by Deaths (Column Chart).
+3) Top 5 and bottom 5 Countries by Recovered Cases (Column Chart).
 
-Highlights trends in growth rates, recovery rates, and fatality rates.
+### Insights Generated 
+1) USA, India and Brazil were the most affected countries by COVID-19 cases, while countries like Serbia, Kiribati, and Micronesia reported the least cases.
+2) India, Brazil and the USA recorded the highest number of recoveries globally, but at the same time, these countries also reported the highest number of deaths.
+3) The highest peak in confirmed cases occurred in April 2021, while the lowest cases were reported in January 2020.
+-Highest deaths were recorded in January 2021 and the lowest in January 2020.
+-Maximum recoveries were observed in May 2021 and the lowest recoveries in January 2020.
+4) European countries initially showed higher mortality rates, while Asian countries reported lower fatality rates due to faster preventive measures and interventions.
+5) Recovery rates improved steadily over time, supported by vaccination drives and better healthcare systems.
+6) The pandemic epicenter shifted over time — starting in China, moving to Europe, then to the USA, and later to India.
 
-Supports public health strategies and policy decisions with data-backed insights.
+## 6) ScreenShot Of Dashboard 
+<img width="1061" height="532" alt="Screenshot of dashboard 1" src="https://github.com/user-attachments/assets/c1d81e1b-1a57-4ec3-a43a-2aba322ffeeb" />
 
-Walkthrough of Key Visuals
+<img width="1057" height="527" alt="Screenshot of dashboard 2" src="https://github.com/user-attachments/assets/9f255365-9cdd-478d-afc9-52f9e91acc2d" />
 
-📌 Overview Dashboard
-
-KPIs: Total Confirmed, Total Deaths, Total Recovered, Active Cases.
-
-Global Growth Curve (Line Chart) – Daily/Monthly trends in confirmed, deaths, and recoveries.
-
-World Map – Geographic spread of cases across regions.
-
-📌 Country Analysis Dashboard
-
-Top 10 Countries by Confirmed Cases (Bar Chart).
-
-Top 10 Countries by Deaths (Bar Chart).
-
-Country-wise Growth Curves (Line Chart).
-
-📌 Fatality & Recovery Analysis Dashboard
-
-Fatality Rate (%) across countries (Column Chart).
-
-Recovery Rate (%) by country (Bar Chart).
-
-Active vs. Recovered vs. Deaths comparison (Stacked Bar/Area Chart).
-
-🔹 Business Impact & Insights
-
-📈 Countries like the USA, India, and Brazil recorded the highest confirmed cases globally.
-
-⚰️ European countries initially had higher mortality rates, while Asian countries showed lower fatality rates due to early interventions.
-
-💊 Recovery rates improved significantly over time with vaccination rollouts and improved healthcare responses.
-
-🌍 Geographic maps showed shifting epicenters: China → Europe → USA → India.
-
-📊 The dashboard helped identify flattening curves vs. rising curves, critical for policymakers in planning lockdowns and healthcare allocation.
-
-🔹 Screenshots / Demos
-
-(Add snapshots of your Power BI dashboards here for Overview, Country Analysis, and Recovery/Fatality dashboards.)
-
-Do you want me to now make a polished README.md file (ready to upload) with this content so you can directly place it in your GitHub repository?
