@@ -54,7 +54,7 @@ To deliver an interactive analytical tool that:
 5) Recovery rates improved steadily over time, supported by vaccination drives and better healthcare systems.
 6) The pandemic epicenter shifted over time — starting in China, moving to Europe, then to the USA, and later to India.
 
-## 6) ScreenShot Of Dashboard 
+## 6) Screenshots Of Dashboard 
 <img width="1061" height="532" alt="Screenshot of dashboard 1" src="https://github.com/user-attachments/assets/c1d81e1b-1a57-4ec3-a43a-2aba322ffeeb" />
 
 <img width="1057" height="527" alt="Screenshot of dashboard 2" src="https://github.com/user-attachments/assets/9f255365-9cdd-478d-afc9-52f9e91acc2d" />
